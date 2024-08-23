@@ -1,0 +1,10 @@
+:root{
+    --blue-500:#0F263D;
+    --yellow-500:#CEA923;
+    --orange-500:#CE6123;
+}
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
